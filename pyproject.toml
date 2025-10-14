@@ -10,4 +10,5 @@ dependencies = [
     "networkx>=3.5",
     "numpy>=2.3.3",
     "pandas>=2.3.3",
+    "pip>=25.2",
 ]
